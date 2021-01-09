@@ -1,0 +1,28 @@
+h1 {
+    font-size: 60px;
+    font-family: inherit;
+}
+
+body {
+    scroll-behavior: smooth;
+    text-align: center;
+   
+    
+
+#im {
+    height: 300px;
+}
+
+span {
+    display: grid;
+    grid-row-gap: 1px;
+}
+marquee{
+font-family: sans-serif;
+font-size:40px;
+color: yellow
+}
+#ip {
+    height: 500px;
+}
+    
